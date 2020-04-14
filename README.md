@@ -1,4 +1,4 @@
-# twirp-ruby
+# twirp-ruby example
 
 https://github.com/twitchtv/twirp-ruby
 
