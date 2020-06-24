@@ -5,7 +5,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     google-protobuf (3.11.4)
     multipart-post (2.1.1)
-    rack (2.2.2)
+    rack (2.2.3)
     twirp (1.4.1)
       faraday (~> 0)
       google-protobuf (~> 3.0, >= 3.0.0)
